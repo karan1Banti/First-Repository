@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Web_page_validation">
+  <test  name="page vaidation">
+    <classes>
+      <class name="TestNG.ClassAnnotation"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
